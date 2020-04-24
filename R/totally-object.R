@@ -1,4 +1,4 @@
-#' This function totally eradicates (totally) bugs from a sick objects.  (At least I heard it does!)
+#' This function totally eradicates (totally) bugs from a sick object.  (At least I heard it does!)
 #'
 #' @param x R object to cleanse
 #' @note The CDC — Centers for Data Coherence — has warned that using \{lysol\} on your data

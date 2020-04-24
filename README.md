@@ -41,7 +41,7 @@ The following functions are implemented:
     eradicates (totally) bugs from a sick data file. (At least I heard
     it does\!)
   - `totally_eradicate_bugs_from_this`: This function totally eradicates
-    (totally) bugs from a sick objects. (At least I heard it does\!)
+    (totally) bugs from a sick object. (At least I heard it does\!)
 
 ## Installation
 

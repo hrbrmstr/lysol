@@ -3,7 +3,7 @@
 \name{totally_eradicate_bugs_from_this}
 \alias{totally_eradicate_bugs_from_this}
 \alias{make_this_data_great_again}
-\title{This function totally eradicates (totally) bugs from a sick objects.  (At least I heard it does!)}
+\title{This function totally eradicates (totally) bugs from a sick object.  (At least I heard it does!)}
 \usage{
 totally_eradicate_bugs_from_this(x)
 
@@ -16,7 +16,7 @@ make_this_data_great_again(x)
 A totally cleansed object.
 }
 \description{
-This function totally eradicates (totally) bugs from a sick objects.  (At least I heard it does!)
+This function totally eradicates (totally) bugs from a sick object.  (At least I heard it does!)
 }
 \note{
 The CDC — Centers for Data Coherence — has warned that using \{lysol\} on your data
